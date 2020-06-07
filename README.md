@@ -1,6 +1,10 @@
-Supplementary data for PhD thesis - Jamie McGowan 2020
+**Supplementary data for PhD thesis - Jamie McGowan 2020**
 
-Supplementary figures and supplementary tables are available from this repository.
+[A ZIP file containing all supplementary figures and tables can be downloaded from this link](https://github.com/jamiemcg/ThesisSupplementaryMaterial/blob/master/ThesisSupplementaryMaterial.zip?raw=true)
+
+
+
+----
 
 Files are also available from publisher websites from the links below:
 
